@@ -19,7 +19,7 @@
     
  :seedling: I'm currently studying Professional Certificate Program in Data Science from Purdue University  <img src="https://tse2.mm.bing.net/th?id=OIP.P5zISkIHCa3fHCocYe4XhwHaD4&pid=Api&P=0" width="30"> in collaboration with Simplilearn <img src="https://tse1.mm.bing.net/th?id=OIP.2Nt7P2Fhv_kmV9o5Qp-NXwHaHa&pid=Api&P=0" width="30">
     
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/archana-k-kokate)
+ :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/archana-k-kokate)
     ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -28,10 +28,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://tse3.mm.bing.net/th?id=OIP.68zDbwxYbtqMKkC4a0Tp1wHaBe&pid=Api&P=0" title="Matplotlib" alt="Matplotlib " width="85" height="35"/>&nbsp;
+  <img src="https://tse4.mm.bing.net/th?id=OIP.D9-oNGwUhrQ2RgdY6vZGbAHaIR&pid=Api&P=0"  title="Machine Learning" alt="Machine Learning" width="45" height="45"/>&nbsp;
+  
+    
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
