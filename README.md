@@ -20,4 +20,7 @@
  :seedling: I'm currently studying Professional Certificate Program in Data Science from Purdue University  <img src="https://tse2.mm.bing.net/th?id=OIP.P5zISkIHCa3fHCocYe4XhwHaD4&pid=Api&P=0" width="30"> in collaboration with Simplilearn <img src="https://tse1.mm.bing.net/th?id=OIP.2Nt7P2Fhv_kmV9o5Qp-NXwHaHa&pid=Api&P=0" width="30">
     
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/archana-k-kokate)
+    ---
+
+### :hammer_and_wrench: Languages and Tools :
 </div>
