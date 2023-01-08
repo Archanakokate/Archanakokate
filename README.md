@@ -15,7 +15,7 @@
     ---
 
 ### :woman_technologist: About Me :
-   I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Frankfurt.
+   I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany.
     
  :seedling: I'm currently studying Professional Certificate Program in Data Science from Purdue University  <img src="https://tse2.mm.bing.net/th?id=OIP.P5zISkIHCa3fHCocYe4XhwHaD4&pid=Api&P=0" width="30"> in collaboration with Simplilearn <img src="https://tse1.mm.bing.net/th?id=OIP.2Nt7P2Fhv_kmV9o5Qp-NXwHaHa&pid=Api&P=0" width="30">
     
