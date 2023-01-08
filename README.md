@@ -17,7 +17,7 @@
 ### :woman_technologist: About Me :
    I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Frankfurt.
     
- :seedling: I'm currently studying Professional Certificate Program in Data Science from Purdue University  <img src="https://tse3.mm.bing.net/th?id=OIP.7yqZ0g6uZCvoMur3Pyc3PwHaNK&pid=Api&P=0" width="30"> in collaboration with Simplilearn <img src="https://getlasso.co/wp-content/uploads/simplilearn-logo.jpg" width="30">
+ :seedling: I'm currently studying Professional Certificate Program in Data Science from Purdue University  <img src="https://tse2.mm.bing.net/th?id=OIP.P5zISkIHCa3fHCocYe4XhwHaD4&pid=Api&P=0" width="30"> in collaboration with Simplilearn <img src="https://tse1.mm.bing.net/th?id=OIP.2Nt7P2Fhv_kmV9o5Qp-NXwHaHa&pid=Api&P=0" width="30">
     
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/archana-k-kokate)
 </div>
