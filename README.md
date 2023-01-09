@@ -39,13 +39,14 @@
   <img src="https://tse4.mm.bing.net/th?id=OIP.yM7x388e75H5LOzKjYkkGwHaHa&pid=Api&P=0" title="Tableau" alt="Tableau" width="50" height="50"/>&nbsp;
   <img src="https://tse4.mm.bing.net/th?id=OIP.D9-oNGwUhrQ2RgdY6vZGbAHaIR&pid=Api&P=0"  title="Machine Learning" alt="Machine Learning" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-  ---
+ 
     
  ### ✍️: Certifications :
-    Python For Data Science by IBM.
-    PGP - Python for Data Science by Simplilearn.
-    Applied Data Science with Python by Simplilearn.
-    Pandas by Kaggle
+    Machine Learning from Simplilearn
+    Python For Data Science from IBM.
+    PGP - Python for Data Science from Simplilearn.
+    Applied Data Science with Python from Simplilearn.
+    Pandas from Kaggle
     
 
 ### :fire: My Stats :
