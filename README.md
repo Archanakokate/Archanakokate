@@ -40,6 +40,14 @@
   <img src="https://tse4.mm.bing.net/th?id=OIP.D9-oNGwUhrQ2RgdY6vZGbAHaIR&pid=Api&P=0"  title="Machine Learning" alt="Machine Learning" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   ---
+    
+ ### ✍️: Certifications :
+    
+    Python For Data Science by IBM.
+    PGP - Python for Data Science by Simplilearn.
+    Applied Data Science with Python by Simplilearn.
+    Pandas by Kaggle
+    
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Archanakokate&theme=dark&background=000000)](https://git.io/streak-stats)
