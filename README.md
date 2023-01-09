@@ -42,7 +42,6 @@
   ---
     
  ### ✍️: Certifications :
-    
     Python For Data Science by IBM.
     PGP - Python for Data Science by Simplilearn.
     Applied Data Science with Python by Simplilearn.
