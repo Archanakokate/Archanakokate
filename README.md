@@ -31,4 +31,10 @@
   <img src="https://tse4.mm.bing.net/th?id=OIP.yM7x388e75H5LOzKjYkkGwHaHa&pid=Api&P=0" title="Tableau" alt="Tableau" width="50" height="50"/>&nbsp;
   <img src="https://tse4.mm.bing.net/th?id=OIP.D9-oNGwUhrQ2RgdY6vZGbAHaIR&pid=Api&P=0"  title="Machine Learning" alt="Machine Learning" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
+  ---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Archanakokate&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Archanakokate&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
