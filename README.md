@@ -12,16 +12,20 @@
     <div align="center">
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400" height="250"/>
 </div>
-    ---
+   
 
 ### :woman_technologist: About Me :
    I am an aspiring Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany.
     
  :seedling: I'm currently studying Professional Certificate Program in Data Science from Purdue University  <img src="https://tse2.mm.bing.net/th?id=OIP.P5zISkIHCa3fHCocYe4XhwHaD4&pid=Api&P=0" width="30"> in collaboration with Simplilearn <img src="https://tse1.mm.bing.net/th?id=OIP.2Nt7P2Fhv_kmV9o5Qp-NXwHaHa&pid=Api&P=0" width="30">
     
- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Archana-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/archana-k-kokate)
+ #### :mailbox:How to reach me: 
+    
+  [![Linkedin Badge](https://img.shields.io/badge/-Archana-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/archana-k-kokate)
+      
+  📧: archanakkokate@gmail.com
    
-
+    
 ### :hammer_and_wrench: Languages and Tools :
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
