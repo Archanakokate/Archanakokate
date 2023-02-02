@@ -17,7 +17,7 @@
 ### :woman_technologist: About Me :
    I am an aspiring Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany.
     
- :seedling: I'm currently studying Professional Certificate Program in Data Science from Purdue University  <img src="https://tse2.mm.bing.net/th?id=OIP.P5zISkIHCa3fHCocYe4XhwHaD4&pid=Api&P=0" width="30"> in collaboration with Simplilearn <img src="https://tse1.mm.bing.net/th?id=OIP.2Nt7P2Fhv_kmV9o5Qp-NXwHaHa&pid=Api&P=0" width="30">
+ :seedling: I have completed Professional Certificate Program in Data Science from Purdue University  <img src="https://tse2.mm.bing.net/th?id=OIP.P5zISkIHCa3fHCocYe4XhwHaD4&pid=Api&P=0" width="30"> in collaboration with Simplilearn <img src="https://tse1.mm.bing.net/th?id=OIP.2Nt7P2Fhv_kmV9o5Qp-NXwHaHa&pid=Api&P=0" width="30">
 :telescope: My current interests are: Data Analytics, Data Visualization, Python, Machine Learning.
 
 :zap: Words that describe me - Self-motivated, Hardworking and Focused
@@ -42,7 +42,8 @@
  
     
  ### ✍️: Certifications :
-    Machine Learning from Simplilearn
+    Tableau Desktop from Simplilearn.
+    Machine Learning from Simplilearn.
     Python For Data Science from IBM.
     PGP - Python for Data Science from Simplilearn.
     Applied Data Science with Python from Simplilearn.
