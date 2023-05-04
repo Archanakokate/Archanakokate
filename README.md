@@ -43,12 +43,13 @@
  
     
  ### ✍️: Certifications :
-    Tableau Desktop from Simplilearn.
-    Machine Learning from Simplilearn.
-    Python For Data Science from IBM.
-    PGP - Python for Data Science from Simplilearn.
-    Applied Data Science with Python from Simplilearn.
-    Pandas from Kaggle
+    Professional Certificate Program in Data Science, Purdue University
+    Tableau Desktop, Simplilearn.
+    Machine Learning, Simplilearn.
+    Python For Data Science, IBM.
+    PGP - Python for Data Science, Simplilearn.
+    Applied Data Science with Python, Simplilearn.
+    Pandas, Kaggle
     
 
 ### :fire: My Stats :
