@@ -44,6 +44,10 @@
  
     
  ### ✍️: Certifications :
+    
+    Tableau Desktop, Simplilearn
+    Machine Learning, Simpilearn
+    
            Tableau Desktop, Simplilearn.
            Machine Learning, Simplilearn.
            Python For Data Science, IBM.
