@@ -17,9 +17,7 @@
 ### :woman_technologist: About Me :
    I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany.
     
- :seedling: Masters in Data Scientist from Simplilearn <img src="https://tse1.mm.bing.net/th?id=OIP.2Nt7P2Fhv_kmV9o5Qp-NXwHaHa&pid=Api&P=0" width="30">
-    
- :seedling: Professional Certificate Program in Data Science from Purdue University  <img src="https://tse2.mm.bing.net/th?id=OIP.P5zISkIHCa3fHCocYe4XhwHaD4&pid=Api&P=0" width="30">
+ :seedling: Masters in Data Scientist from Simplilearn <img src="https://tse1.mm.bing.net/th?id=OIP.2Nt7P2Fhv_kmV9o5Qp-NXwHaHa&pid=Api&P=0" width="30"> and Professional Certificate Program in Data Science from Purdue University  <img src="https://tse2.mm.bing.net/th?id=OIP.P5zISkIHCa3fHCocYe4XhwHaD4&pid=Api&P=0" width="30">
  
     
 :telescope: My current interests are: Data Analytics, Data Visualization, Python, Machine Learning.
@@ -46,12 +44,12 @@
  
     
  ### ✍️: Certifications :
-             Tableau Desktop, Simplilearn.
-             Machine Learning, Simplilearn.
-             Python For Data Science, IBM.
-             PGP - Python for Data Science, Simplilearn.
-             Applied Data Science with Python, Simplilearn.
-             Pandas, Kaggle
+            ##### Tableau Desktop, Simplilearn.
+             ##### Machine Learning, Simplilearn.
+           #####  Python For Data Science, IBM.
+            ##### PGP - Python for Data Science, Simplilearn.
+            ##### Applied Data Science with Python, Simplilearn.
+            ##### Pandas, Kaggle
     
 
 ### :fire: My Stats :
