@@ -42,12 +42,12 @@
     
  ### ✍️: Certifications :
       
-- Tableau Desktop, Simplilearn.
-- Machine Learning, Simplilearn.
-- Python For Data Science, IBM.
-- Python for Data Science, Simplilearn.
-- Applied Data Science with Python, Simplilearn.
-- Pandas, Kaggle
+ Tableau Desktop, Simplilearn.
+ Machine Learning, Simplilearn.
+ Python For Data Science, IBM.
+ Python for Data Science, Simplilearn.
+ Applied Data Science with Python, Simplilearn.
+ Pandas, Kaggle
     
 
 ### :fire: My Stats :
