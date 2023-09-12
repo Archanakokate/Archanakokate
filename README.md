@@ -41,18 +41,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://tse3.mm.bing.net/th?id=OIP.8L63X2Xej2fTw9TAOtFGjQAAAA&pid=Api&P=0&h=180" title="PowerBI" alt="PowerBi" width="40" height="40"/>&nbsp; 
  
-    
- ### ✍️: Certifications :
-      
-  PowerBi, Growth School.
-  SQL, CoRise
-  Tableau Desktop, Simplilearn.
-  Machine Learning, Simplilearn.
-  Python For Data Science, IBM.
-  Python for Data Science, Simplilearn.
-  Applied Data Science with Python, Simplilearn.
-  Pandas, Kaggle
-    
+       
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Archanakokate&theme=dark&background=000000)](https://git.io/streak-stats)
