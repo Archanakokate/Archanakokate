@@ -24,7 +24,9 @@
 <pre></pre>
  ### :mailbox: How to reach me: 
     
- 📧: archanakkokate@gmail.com     [![Linkedin Badge](https://img.shields.io/badge/-Archana-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/archana-k-kokate)
+ [![Linkedin Badge](https://img.shields.io/badge/-Archana-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/archana-k-kokate)
+ 📧: archanakkokate@gmail.com     
+ 
  
    <pre></pre>
 ### :hammer_and_wrench: Languages and Tools :
