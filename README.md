@@ -1,7 +1,7 @@
 <div id="header">
   <img src="https://media.giphy.com/media/uLGINkpekEo98BP5gN/giphy.gif" width="150"/> 
 
-<strong> Hey there, i'm Archana </strong>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<strong> <font size="80"> Hey there, i'm Archana </font> </strong>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <pre></pre>
 #### :woman_technologist: About Me :
