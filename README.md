@@ -14,10 +14,6 @@ With a track record spanning organizations like Omdena, Prodigy InfoTech, LetsGr
 
 Dive in and explore my portfolio to see how I've transformed unstructured data into invaluable insights! Let's connect and explore opportunities to collaborate on impactful projects together!
  
-🔭: My current interests are: Data Analytics, Data Visualization, Python and Machine Learning.
-    
-⚡: Words that describe me - Self-motivated, Hardworking and Focused
-  
 <pre>
   
 </pre>
